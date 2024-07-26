@@ -1,4 +1,5 @@
-## Hi there 👋
+##Hey there, I am Veena Ramesh Beknal, an aspiring Data Analyst and Machine Learning Engineer with over 8.5 years of experience in Software development and data science. Currently, I am pursuing a Master's in Data Analytics at San Jose State University. I'm a lifelong learner, and I constantly update my knowledge of the rapidly evolving data science landscape.![image](https://github.com/user-attachments/assets/ea58c78f-2684-4503-91ec-26bdbc54dc0c)
+ 👋
 
 <!--
 **VeenaBeknal/VeenaBeknal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
