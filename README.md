@@ -1,7 +1,7 @@
 
 <h1 align = "center">Hey there, I am Veena Ramesh Beknal👋</h1>
 
-##  I an aspiring Data Analyst and Machine Learning Engineer with over 8+ years of experience in Software Development and Data Science. Currently, I am pursuing a Master's in Data Analytics at San Jose State University. I am passionate about __Machine Learning__, __DataScinece__ and __Data Engineering__ as it involves continuous learning and I believe these are the skills required to understand a increaingly data rick world. Transforming complex datasets into actionable insights, optimizing process and Innovating solutions will be the future. I'm a lifelong learner, and I constantly update my knowledge of the rapidly evolving data science landscape.!
+### I an aspiring Data Analyst and Machine Learning Engineer with over 8+ years of experience in Software Development and Data Science. Currently, I am pursuing Master's in Data Analytics at San Jose State University. I am passionate about __Machine Learning__, __DataScinece__ and __Data Engineering__ as it involves continuous learning and I believe these are the skills essential to understand and navigate an increasingly data-rich world. Transforming complex datasets into actionable insights, optimizing process and innovating solutions will be the future in the data world. I'm a lifelong learner, and I constantly update my knowledge of the rapidly evolving data science landscape.!
 
 <h2>:wrench: :carpentry_saw: My Skills </h2>
 
@@ -43,7 +43,7 @@ Along with the below mentioned skills, I have a sound knowledge of Statistics, P
 ##### This repository contains project build on SQL and NoSQL database systems for LinkedIn Job Posting. Analysis of various job posting listed on LinkedIn from the dataset from Kaggle. After the data is preprocessed and cleaned two different solution for the database were created for SQL using MySQL and NoSQL using MongoDB. 
 
 
-<h5> I thank you for visiting my GitHub portfolio! I an excited to share my projects with you. For more detailed information about each project mentioned above, I have included files and descriptions. Expore the project and cheers to neverending learning in this evolving data era 🙂
+<h5> 🙂 🙂 I thank you for visiting my GitHub portfolio! I an excited to share my projects with you. For more detailed information about each project mentioned above, I have included files and descriptions. Expore the project and cheers to neverending learning in this evolving data era 🙂 🙂
 
 <!--
 **VeenaBeknal/VeenaBeknal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
