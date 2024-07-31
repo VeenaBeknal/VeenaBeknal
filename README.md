@@ -15,9 +15,11 @@ Along with the below mentioned skills, I have a sound knowledge of Statistics, P
 
 <h3 align = "center">  Supervised Machine Learning Projects </h3> 
 
+<a href="https://github.com/VeenaBeknal/DiabetesPrediction">Diabetes Prediction</a>
+
 <h4> https://github.com/VeenaBeknal/DiabetesPrediction <h4>
 
-##### This repository contains machine learning project for predicting diabetes in Pima Indian women. This is dataset available on Kaggle which is based on Pima Indian also refered as "River People" as they are prone to type-2 diabetes due to serveral historical and sociological factors. Machine learning models mainly tree-based models such as Decision tree, Random forest, Gradiant Boost machine and XGBooast where performed in predicting the type-2 diabetes.
+##### This repository contains machine learning project for predicting diabetes in Pima Indian women. This is dataset available on Kaggle which is based on Pima Indian also refered as "River People" as they are prone to type-2 diabetes due to serveral historical and sociological factors. Machine learning models mainly tree-based models such as Decision tree, Random forest, Gradiant Boost machine and XGBoost were performed in predicting the type-2 diabetes.
 
 
 <h4> https://github.com/VeenaBeknal/Predicting-Amazon-Product-Review-Helpfulness <h4>
@@ -27,13 +29,13 @@ Along with the below mentioned skills, I have a sound knowledge of Statistics, P
 
 <h4> https://github.com/VeenaBeknal/Solar-Irradiance-to-Sustainably-Power-Streetlights <h4>
 
-##### This repository contains machine learning project for predicting Solar Irradiance to sustainably power the streetlights. The dataset was extracted National Solar Radiation Database (NSRDB) and data collected from NSRDB which contained detailed solar irradiance data for selected zip codes across San Jose, California. Various Regression machine learning models such as Linear Regression, Support Vector MAchine Regression, Tree-based models such as Random Forest Regression, XGBoost Regression and Regularization regression such as L1 and L2 were performed.
+##### This repository contains machine learning project for predicting Solar Irradiance to sustainably power the streetlights. The dataset was extracted National Solar Radiation Database (NSRDB) and data collected from NSRDB which contained detailed solar irradiance data for selected zip codes across San Jose, California. Various Regression machine learning models such as Linear Regression, Support Vector Machine Regression, Tree-based models such as Random Forest Regression, XGBoost Regression and Regularization regression such as L1 and L2 were performed.
 
 <h3 align = "center">  Unsupervised Machine Learning Projects </h3> 
 
 <h4> https://github.com/VeenaBeknal/USClimatologicalDataAnalysis <h4>
 
-##### This repository contains machine learning project for predicting predicting weather patterns, studying climate change, and understanding local weather conditions. The dataset was extracted FTP server of NOAA (National Oceanic and Atmospheric Administration). Data for california weather stations was extracted. There are three main use case for this project Use case 1: Difference between temperature over the years. Use case 2: Distribution of temperature and Use case 3: Extreme weather data clustering for California stations. For usecase 3 Unsupervised machine learning such as K-means was performed.
+##### This repository contains machine learning project for predicting predicting weather patterns, studying climate change, and understanding local weather conditions. The dataset was extracted FTP server of NOAA (National Oceanic and Atmospheric Administration). Data for california weather stations was extracted. There are three main use case for this project Use case 1: Difference between temperature over the years. Use case 2: Distribution of temperature and Use case 3: Extreme weather data clustering for California stations. For usecase 3 unsupervised machine learning such as K-means was performed.
 
 
 <h3 align = "center">  Database Projects (SQL and NoSQL) </h3> 
