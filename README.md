@@ -1,13 +1,13 @@
 
 <h1 align = "center">Hey there, I am Veena Ramesh Beknal👋</h1>
 
-## About Me
+### About Me
 
-### I an aspiring Data Analyst and Machine Learning Engineer with over 8+ years of experience in Software Development and Data Science. Currently, I am pursuing Master's in Data Analytics at San Jose State University. I am passionate about Machine Learning, Data Science, and Data Engineering as it involves continuous learning and I believe these are the skills essential to understand and navigate an increasingly data-rich world. Transforming complex datasets into actionable insights, optimizing process and innovating solutions will be the future in the data world. I'm a lifelong learner, and I constantly update my knowledge of the rapidly evolving data science landscape.!
+#### I am an aspiring Data Analyst and Machine Learning Engineer with over 8+ years of experience in Software Development and Data Science. Currently, I am pursuing a Master's in Data Analytics at San Jose State University. I am passionate about Machine Learning, Data Science, and Data Engineering as it involves continuous learning and I believe these are the skills essential to understand and navigate an increasingly data-rich world. Transforming complex datasets into actionable insights, optimizing processes and innovating solutions will be the future of the data world. I'm a lifelong learner, and I constantly update my knowledge of the rapidly evolving data science landscape.!
 
 <h2>:wrench: :carpentry_saw: My Skills </h2>
 
-Along with the below mentioned skills, I have a sound knowledge of Statistics, Probability, Machine Learning (Supervised and Unsupervised), SQL and NoSQL
+Along with the below-mentioned skills, I have a sound knowledge of Statistics, Probability, Machine Learning (Supervised and Unsupervised), SQL, and NoSQL
 <br>
 <a>
 
@@ -18,29 +18,29 @@ Along with the below mentioned skills, I have a sound knowledge of Statistics, P
 <h3 align = "center">  Supervised Machine Learning Projects </h3> 
 
 <a href="https://github.com/VeenaBeknal/DiabetesPrediction"> Diabetes Prediction </a>
-##### This repository contains machine learning project for predicting diabetes in Pima Indian women. This dataset is available on Kaggle which is based on Pima Indian also refered as "River People" as they are prone to type-2 diabetes due to several historical and sociological factors. Machine learning models mainly tree-based models such as Decision tree, Random forest, Gradiant Boost machine and XGBoost were performed in predicting the type-2 diabetes.
+##### This repository contains a machine learning project for predicting diabetes in Pima Indian women. This dataset is available on Kaggle which is based on Pima Indians also referred to as "River People" as they are prone to type-2 diabetes due to several historical and sociological factors. Machine learning models mainly tree-based models such as a Decision tree, Random forest, Gradient Boost machine, and XGBoost were performed in predicting type-2 diabetes.
 
 <a href="https://github.com/VeenaBeknal/Predicting-Amazon-Product-Review-Helpfulness"> Amazon Product Review Helpfulness </a>
-##### This repository contains machine learning project for predicting helpfulness of Amazon Product Reviews. The dataset used is a subset of the “Amazon Review Data (2018)” published by Ni (2018), UCSD. Focused categories for this project are appliances, automotive, cell phones and accessories, and tools and home improvement. Multiple classification machine learning models such as Logistic regression, Support Vector Machine and tree-based models such as Random Forest and XGBoost were performed.
+##### This repository contains a machine learning project for predicting the helpfulness of Amazon Product Reviews. The dataset used is a subset of the “Amazon Review Data (2018)” published by Ni (2018), UCSD. Focused categories for this project are appliances, automotive, cell phones and accessories, and tools and home improvement. Multiple classification machine learning models such as Logistic regression, Support Vector Machine, and tree-based models such as Random Forest and XGBoost were performed.
 
 <a href="https://github.com/VeenaBeknal/Solar-Irradiance-to-Sustainably-Power-Streetlights"> Solar Irradiance to Power Streetlights </a>
-##### This repository contains machine learning project for predicting Solar Irradiance to sustainably power the streetlights. The dataset was extracted National Solar Radiation Database (NSRDB) and solar irradiance data was collected for selected zip codes across San Jose, California. Various regression machine learning models such as Linear Regression, Support Vector Machine Regression, Tree-based regression models such as Random Forest Regression, XGBoost Regression and Regularization regression such as L1 and L2 were performed.
+##### This repository contains a machine learning project for predicting Solar Irradiance to sustainably power the streetlights. The dataset was extracted National Solar Radiation Database (NSRDB) and solar irradiance data was collected for selected zip codes across San Jose, California. Various regression machine learning models such as Linear Regression, Support Vector Machine Regression, Tree-based regression models such as Random Forest Regression, XGBoost Regression, and Regularization regression such as L1 and L2 were performed.
 
 <h3 align = "center">  Unsupervised Machine Learning Projects </h3> 
 
 <a href="https://github.com/VeenaBeknal/USClimatologicalDataAnalysis"> US Climatological Data Analysis </a>
-##### This repository contains machine learning project for predicting weather patterns, studying climate change, and understanding local weather conditions. The dataset was extracted from FTP server of NOAA (National Oceanic and Atmospheric Administration). Data for california weather stations was collected. There are three main use case for this project: use case 1: Difference between temperature over the years. Use case 2: Distribution of temperature and Use case 3: Extreme weather data clustering for California stations. For usecase 3 unsupervised machine learning such as K-means was performed. Google Cloud was used to deploy the solution on cloud.
+##### This repository contains a machine learning project for predicting weather patterns, studying climate change, and understanding local weather conditions. The dataset was extracted from the FTP server of NOAA (National Oceanic and Atmospheric Administration). Data for California weather stations was collected. There are three main use cases for this project: use case 1: Difference between temperature over the years. Use case 2: Distribution of temperature and Use case 3: Extreme weather data clustering for California stations. For use case 3 unsupervised machine learning such as K-means was performed. Google Cloud was used to deploy the solution on the cloud.
 
 <a href="https://github.com/VeenaBeknal/Social-Media-Listening-for-Reddit-Posts-and-Comments"> Social Media Listening App for Reddit Data </a>
-##### This repository contains machine learning project build on historical Reddit data using topic modeling. The data source considered for this project was the r/technology subreddit’s historical dataset which is updated on a weekly level and is available on kaggle. Pyspark is used for data cleansing, transformation, and aggregation of Reddit data, which typically involves a high volume of posts and comments on daily bases. A Streamlit social media listening app for historical data was built that can help in tracking and analyzing multiple metrics and trends as part of social media listening. Unsupervised machine learning model Latent Dirichlet Allocation (LDA) was used for topic modeling.
+##### This repository contains a machine learning project built on historical Reddit data using topic modeling. The data source considered for this project was the r/technology subreddit’s historical dataset which is updated on a weekly level and is available on Kaggle. PySpark is used for data cleansing, transformation, and aggregation of Reddit data, which typically involves a high volume of posts and comments daily. A Streamlit social media listening app for historical data was built that can help in tracking and analyzing multiple metrics and trends as part of social media listening. Unsupervised machine learning model Latent Dirichlet Allocation (LDA) was used for topic modeling.
 
 <h3 align = "center">  Database Projects (SQL and NoSQL) </h3> 
 
 <a href="https://github.com/VeenaBeknal/LinkedInJobPostings"> LinkedIn Job Postings </a>
-##### This repository contains project build on SQL and NoSQL database systems for LinkedIn Job Posting. Analysis of various job posting listed on LinkedIn from the dataset available on Kaggle. After the data is preprocessed and cleaned two different solutions for the database were created one for SQL using MySQL and another for NoSQL using MongoDB. Atlas was used for visualizations of the NoSQL query. 
+##### This repository contains projects built on SQL and NoSQL database systems for LinkedIn Job Posting. Analysis of various job postings listed on LinkedIn from the dataset available on Kaggle. After the data was preprocessed and cleaned two different solutions for the database were created one for SQL using MySQL and another for NoSQL using MongoDB. Atlas was used for visualizations of the NoSQL query. 
 
 
-<h5> 🙂 🙂 I thank you for visiting my GitHub portfolio! I an excited to share my projects with you. For more detailed information about each project mentioned above, I have included files and descriptions. Expore the project and cheers to neverending learning in this evolving data era 🙂 🙂
+<h5> 🙂 🙂 Thank you for visiting my GitHub portfolio! I am excited to share my projects with you. For more detailed information about each project mentioned above, I have included files and descriptions. Explore the project and cheers to never-ending learning in this evolving data era 🙂 🙂
 
 <!--
 **VeenaBeknal/VeenaBeknal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
