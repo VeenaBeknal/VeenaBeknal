@@ -81,7 +81,7 @@ This project involves analyzing job postings on LinkedIn using both SQL (MySQL) 
 📫 Reach me: veenaramesh.beknal@sjsu.edu 
 
 
-<h5> 🙂 🙂 Thank you for visiting my GitHub portfolio! Feel free to explore my projects and connect with me. I’m always open to learning and collaborating in this exciting data era! 🙂 🙂
+<h4> 🙂 🙂 Thank you for visiting my GitHub portfolio! Feel free to explore my projects and connect with me. I’m always open to learning and collaborating in this exciting data era! 🙂 🙂 </h4>
 
 <!--
 **VeenaBeknal/VeenaBeknal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
