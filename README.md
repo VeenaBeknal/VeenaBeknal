@@ -64,6 +64,7 @@ The predicted irradiance values were then converted to electricity using a widel
 ### Unsupervised Machine Learning Projects
 
 <a href="https://github.com/VeenaBeknal/Social-Media-Listening-for-Reddit-Posts-and-Comments"> Social Media Listening App for Reddit Data </a>
+
 I built a social media listening app using historical Reddit data. The app applies Latent Dirichlet Allocation (LDA) for topic modeling, utilizing PySpark for data processing. 
 The data source considered for this project was the r/technology subreddit’s historical dataset which is updated on a weekly level and is available on Kaggle (<a href="https://www.kaggle.com/datasets/curiel/rtechnology-posts-and-comments/data">link</a>). The app is deployed using Streamlit (<a href="https://reddit-historical-listening.streamlit.app/"> Social Media Listening App </a> !) and analyzes trends within the r/technology subreddit.
 
