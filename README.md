@@ -1,19 +1,17 @@
 
-<h1 align = "center">Hey there, I am Veena Ramesh Beknal👋</h1>
+<h1 align = "center">👋 Hey there, I am Veena! 👋</h1>
 
 ### About Me
 
 #### I am an aspiring Data Scientist and Machine Learning Engineer with over 8 years of experience in Software Development and Data Science. Currently, I am pursuing my Master's degree in Data Analytics at San Jose State University, expected to graduate in May 2025.
-
 #### My passion lies in Machine Learning, Data Science, and Data Engineering. We live in a data-rich world, and I am endlessly curious about navigating it. I thrive on transforming complex multi-modal datasets into actionable insights, optimizing processes, and creating innovative solutions to real-world business problems.
-
 #### I am a lifelong learner, continuously updating my knowledge to keep pace with the rapidly evolving data science landscape!
 
 #### When I'm not immersed in data, I enjoy:
-🌱 Gardening
-🍳 Cooking
-✈️ Traveling
-🎨 Arts & Crafts (including quilling, painting, jewelry design)
+🌱 Gardening <br>
+🍳 Cooking <br>
+✈️ Traveling <br>
+🎨 Arts & Crafts (including quilling, painting, jewelry design) 
 
 <h2>:wrench: :carpentry_saw: My Skills </h2>
 
@@ -39,47 +37,47 @@ I continually aim to expand my skill set as I progress in this ever-evolving fie
 
 <h2> Featured Projects </h2>
 
-<h3 align = "center">  Supervised Machine Learning Projects </h3> 
+
+### Supervised Machine Learning Projects
 
 <a href="https://github.com/VeenaBeknal/Predicting-Amazon-Product-Review-Helpfulness"> Amazon Product Review Helpfulness </a> 
-##### Repository: Amazon Product Review Helpfulness
-In this project, I built models to predict the helpfulness of Amazon product reviews (<a href="https://nijianmo.github.io/amazon/index.html"> Amazon Data Source </a> ). 
+
+In this project, I built models to predict the helpfulness of Amazon product reviews (<a href="https://nijianmo.github.io/amazon/index.html">link</a>). 
 Helpfulness is a binary dependent variable created based on a combination of vote count and the verified status of the review.
 I utilized NLP techniques to extract features, combined with metadata features and trained various models such as Logistic Regression, SVM, and Random Forest. This approach targets specific product categories where reviews are more objective, like Appliances and Tools.
 
 <a href="https://github.com/VeenaBeknal/DiabetesPrediction"> Diabetes Prediction </a>
-##### Repository: Diabetes Prediction
-This project focuses on predicting diabetes in Pima Indian women using a dataset from Kaggle (<a href="https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database"> Pima Indian Data Source </a> ). 
+
+This project focuses on predicting diabetes in Pima Indian women using a dataset from Kaggle (<a href="https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database">link</a>). 
 Pima Indians also referred to as "River People" and are prone to Type-2 Diabetes due to several historical and sociological factors. 
 I explored multiple tree-based models such as Decision Trees, Random Forest, Gradient Boosting, and XGBoost. Additionally, I used SHAP values to enhance model interpretability.
 
 <a href="https://github.com/VeenaBeknal/Solar-Irradiance-to-Sustainably-Power-Streetlights"> Solar Irradiance to Power Streetlights </a>
-##### Repository: Solar Irradiance Prediction
+
 Solar irradiance is the amount of solar energy reaching Earth's surface and is essential for harnessing solar energy for electricity generation.
 I developed predictive models to forecast solar irradiance using environmental factors. 
 The datasets were extracted from National Solar Radiation Database (NSRDB) FTP servers and Solar Irradiance data was collected for select zip codes across San Jose, California for 2018-2022. 
-The project focuses on creating sustainable energy solutions for powering streetlights by predicting solar energy based on historical weather data from NSRDB (<a href="https://nsrdb.nrel.gov/data-viewer"> Solar Irradiance Data Source </a> ). 
+The project focuses on creating sustainable energy solutions for powering streetlights by predicting solar energy based on historical weather data from NSRDB (<a href="https://nsrdb.nrel.gov/data-viewer">link</a>). 
 Several regression techniques, including Linear Regression, Support Vector Regression, XGBoost and L1/L2 regression were applied. 
-The predicted irradiance values were then converted to electricity using a widely accepted formula/logic - this novel approach can be used to help drive sustainability goals (something I'm passionate about! ⚡)
+The predicted irradiance values were then converted to electricity using a widely accepted formula/logic - this novel approach can be used to help drive sustainability goals (something I'm passionate about!) ⚡
 
-<h3 align = "center">  Unsupervised Machine Learning Projects </h3> 
+### Unsupervised Machine Learning Projects
 
 <a href="https://github.com/VeenaBeknal/Social-Media-Listening-for-Reddit-Posts-and-Comments"> Social Media Listening App for Reddit Data </a>
-#####  Repository: Reddit Topic Modeling
 I built a social media listening app using historical Reddit data. The app applies Latent Dirichlet Allocation (LDA) for topic modeling, utilizing PySpark for data processing. 
-The data source considered for this project was the r/technology subreddit’s historical dataset which is updated on a weekly level and is available on Kaggle <a href="https://www.kaggle.com/datasets/curiel/rtechnology-posts-and-comments/data"> Reddit Data Source </a>. The app is deployed using Streamlit (check it out here <a href="https://reddit-historical-listening.streamlit.app/"> Social Media Listening App </a> !) and analyzes trends within the r/technology subreddit.
+The data source considered for this project was the r/technology subreddit’s historical dataset which is updated on a weekly level and is available on Kaggle (<a href="https://www.kaggle.com/datasets/curiel/rtechnology-posts-and-comments/data">link</a>). The app is deployed using Streamlit (<a href="https://reddit-historical-listening.streamlit.app/"> Social Media Listening App </a> !) and analyzes trends within the r/technology subreddit.
 
 <a href="https://github.com/VeenaBeknal/USClimatologicalDataAnalysis"> US Climatological Data Analysis </a>
-#####  Repository: US Climatological Data Analysis
+
 This project investigates weather patterns and climate change in California using unsupervised learning. 
-The dataset was extracted from the FTP server of NOAA (National Oceanic and Atmospheric Administration) <a href="https://www.ncei.noaa.gov/pub/data/ghcn/daily/by_year/"> Climatological Data Source </a>.
+The dataset was extracted from the FTP server of NOAA (National Oceanic and Atmospheric Administration) (<a href="https://www.ncei.noaa.gov/pub/data/ghcn/daily/by_year/">link</a>).
 I applied K-means clustering and attempted DBSCAN to and classify weather stations with similar snow and precipitation pattern. Google Cloud Platform (GCP) was used for deploying the solution.
 
-<h3 align = "center">  Database Projects (SQL and NoSQL) </h3> 
+### Database Projects (SQL and NoSQL)
 
 <a href="https://github.com/VeenaBeknal/LinkedInJobPostings"> LinkedIn Job Postings </a>
-##### Repository: LinkedIn Job Postings
-This project involves analyzing job postings on LinkedIn using both SQL (MySQL) and NoSQL (MongoDB). MongoDB Atlas was used for visualizing the NoSQL queries. The dataset is available on Kaggle <a href="https://www.kaggle.com/datasets/arshkon/linkedin-job-postings?select=job_postings.csv"> LinkedIn Job Postings Data Source </a>.
+
+This project involves analyzing job postings on LinkedIn using both SQL (MySQL) and NoSQL (MongoDB). MongoDB Atlas was used for visualizing the NoSQL queries. The dataset is available on Kaggle (<a href="https://www.kaggle.com/datasets/arshkon/linkedin-job-postings?select=job_postings.csv">link</a>).
 
 - 📫 Reach me: veenaramesh.beknal@sjsu.edu 
 
