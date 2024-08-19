@@ -70,7 +70,7 @@ I built a social media listening app using historical Reddit data. The app appli
 The data source considered for this project was the r/technology subreddit’s historical dataset which is updated on a weekly level and is available on Kaggle <a href="https://www.kaggle.com/datasets/curiel/rtechnology-posts-and-comments/data"> Reddit Data Source </a>. The app is deployed using Streamlit (check it out here <a href="https://reddit-historical-listening.streamlit.app/"> Social Media Listening App </a> !) and analyzes trends within the r/technology subreddit.
 
 <a href="https://github.com/VeenaBeknal/USClimatologicalDataAnalysis"> US Climatological Data Analysis </a>
-Repository: US Climatological Data Analysis
+#####  Repository: US Climatological Data Analysis
 This project investigates weather patterns and climate change in California using unsupervised learning. 
 The dataset was extracted from the FTP server of NOAA (National Oceanic and Atmospheric Administration) <a href="https://www.ncei.noaa.gov/pub/data/ghcn/daily/by_year/"> Climatological Data Source </a>.
 I applied K-means clustering and attempted DBSCAN to and classify weather stations with similar snow and precipitation pattern. Google Cloud Platform (GCP) was used for deploying the solution.
