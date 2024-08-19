@@ -53,7 +53,7 @@ I explored multiple tree-based models such as Decision Trees, Random Forest, Gra
 <a href="https://github.com/VeenaBeknal/Solar-Irradiance-to-Sustainably-Power-Streetlights"> Solar Irradiance to Power Streetlights </a>
 
 Solar irradiance is the amount of solar energy reaching Earth's surface and is essential for harnessing solar energy for electricity generation.
-I developed predictive models to forecast solar irradiance using environmental factors. Here's a cool little <a href="https://www.youtube.com/watch?v=IVOnb03VfPs">video</a> we made about our project! 
+I developed predictive models to forecast solar irradiance using environmental factors. Here's a cool little <a href="https://www.youtube.com/watch?v=IVOnb03VfPs">video</a> we made about our project!.
 The datasets were extracted from National Solar Radiation Database (NSRDB) FTP servers and Solar Irradiance data was collected for select zip codes across San Jose, California for 2018-2022. 
 The project focuses on creating sustainable energy solutions for powering streetlights by predicting solar energy based on historical weather data from NSRDB (<a href="https://nsrdb.nrel.gov/data-viewer">link</a>). 
 Several regression techniques, including Linear Regression, Support Vector Regression, XGBoost and L1/L2 regression were applied. 
@@ -64,12 +64,12 @@ The predicted irradiance values were then converted to electricity ⚡ using a w
 <a href="https://github.com/VeenaBeknal/Social-Media-Listening-for-Reddit-Posts-and-Comments"> Social Media Listening App for Reddit Data </a>
 
 I built a social media listening app using historical Reddit data. The app applies Latent Dirichlet Allocation (LDA) for topic modeling, utilizing PySpark for data processing. 
-The data source considered for this project was the r/technology subreddit’s historical dataset which is updated on a weekly level and is available on Kaggle (<a href="https://www.kaggle.com/datasets/curiel/rtechnology-posts-and-comments/data">link</a>). The app is deployed using Streamlit (<a href="https://reddit-historical-listening.streamlit.app/"> Social Media Listening App </a> !) and analyzes trends within the r/technology subreddit.
+The data source considered for this project was the r/technology subreddit’s historical dataset which is updated on a weekly level and is available on Kaggle (<a href="https://www.kaggle.com/datasets/curiel/rtechnology-posts-and-comments/data">link</a>). The app is deployed using Streamlit (<a href="https://reddit-historical-listening.streamlit.app/"> Social Media Listening App </a>!) and analyzes trends within the r/technology subreddit.
 
 <a href="https://github.com/VeenaBeknal/USClimatologicalDataAnalysis"> US Climatological Data Analysis </a>
 
 This project investigates weather patterns and climate change in California using unsupervised learning. 
-The dataset was extracted from the FTP server of NOAA (National Oceanic and Atmospheric Administration) (<a href="https://www.ncei.noaa.gov/pub/data/ghcn/daily/by_year/">link</a>).
+The dataset was extracted from the FTP server of National Oceanic and Atmospheric Administration (NOAA) (<a href="https://www.ncei.noaa.gov/pub/data/ghcn/daily/by_year/">link</a>).
 I applied K-means clustering and attempted DBSCAN to and classify weather stations with similar snow and precipitation pattern. Google Cloud Platform (GCP) was used for deploying the solution.
 
 ### Database Projects (SQL and NoSQL)
