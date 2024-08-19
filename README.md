@@ -78,10 +78,9 @@ I applied K-means clustering and attempted DBSCAN to and classify weather statio
 
 This project involves analyzing job postings on LinkedIn using both SQL (MySQL) and NoSQL (MongoDB). MongoDB Atlas was used for visualizing the NoSQL queries. The dataset is available on Kaggle (<a href="https://www.kaggle.com/datasets/arshkon/linkedin-job-postings?select=job_postings.csv">link</a>).
 
-📫 Reach me: veenaramesh.beknal@sjsu.edu 
-
-
 <h4> 🙂 🙂 Thank you for visiting my GitHub portfolio! Feel free to explore my projects and connect with me. I’m always open to learning and collaborating in this exciting data era! 🙂 🙂 </h4>
+
+📫 Reach me: veenaramesh.beknal@sjsu.edu 
 
 <!--
 **VeenaBeknal/VeenaBeknal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
