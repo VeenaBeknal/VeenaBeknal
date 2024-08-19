@@ -3,44 +3,88 @@
 
 ### About Me
 
-#### I am an aspiring Data Analyst and Machine Learning Engineer with over 8+ years of experience in Software Development and Data Science. Currently, I am pursuing a Master's in Data Analytics at San Jose State University. I am passionate about Machine Learning, Data Science, and Data Engineering as it involves continuous learning and I believe these are the skills essential to understand and navigate an increasingly data-rich world. Transforming complex datasets into actionable insights, optimizing processes and innovating solutions will be the future of the data world. I'm a lifelong learner, and I constantly update my knowledge of the rapidly evolving data science landscape.!
+#### I am an aspiring Data Scientist and Machine Learning Engineer with over 8 years of experience in Software Development and Data Science. Currently, I am pursuing my Master's degree in Data Analytics at San Jose State University, expected to graduate in May 2025.
+
+#### My passion lies in Machine Learning, Data Science, and Data Engineering. We live in a data-rich world, and I am endlessly curious about navigating it. I thrive on transforming complex multi-modal datasets into actionable insights, optimizing processes, and creating innovative solutions to real-world business problems.
+
+#### I am a lifelong learner, continuously updating my knowledge to keep pace with the rapidly evolving data science landscape!
+
+#### When I'm not immersed in data, I enjoy:
+🌱 Gardening
+🍳 Cooking
+✈️ Traveling
+🎨 Arts & Crafts (including quilling, painting, jewelry design)
 
 <h2>:wrench: :carpentry_saw: My Skills </h2>
 
-Along with the below-mentioned skills, I have a sound knowledge of Statistics, Probability, Machine Learning (Supervised and Unsupervised), SQL, and NoSQL
+#### I have strong expertise in:
+
+Machine Learning (Supervised & Unsupervised),
+Statistics & Probability,
+SQL & NoSQL Databases,
+Natural Language Processing (NLP),
+Data Visualization & Analysis
+
+#### I am proficient in tools and technologies such as:
+
+Python (Pandas, Scikit-learn, TensorFlow),
+SQL & MongoDB,
+PySpark,
+Google Cloud
+I continually aim to expand my skill set as I progress in this ever-evolving field.
 <br>
 <a>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-<h2> About my projects </h2>
+<h2> Featured Projects </h2>
 
 <h3 align = "center">  Supervised Machine Learning Projects </h3> 
 
-<a href="https://github.com/VeenaBeknal/DiabetesPrediction"> Diabetes Prediction </a>
-##### This repository contains a machine learning project for predicting diabetes in Pima Indian women. This dataset is available on Kaggle which is based on Pima Indians also referred to as "River People" as they are prone to type-2 diabetes due to several historical and sociological factors. Machine learning models mainly tree-based models such as a Decision tree, Random forest, Gradient Boost machine, and XGBoost were performed in predicting type-2 diabetes.
+<a href="https://github.com/VeenaBeknal/Predicting-Amazon-Product-Review-Helpfulness"> Amazon Product Review Helpfulness </a> 
+##### Repository: Amazon Product Review Helpfulness
+In this project, I built models to predict the helpfulness of Amazon product reviews (<a href="https://nijianmo.github.io/amazon/index.html"> Amazon Data Source </a> ). 
+Helpfulness is a binary dependent variable created based on a combination of vote count and the verified status of the review.
+I utilized NLP techniques to extract features, combined with metadata features and trained various models such as Logistic Regression, SVM, and Random Forest. This approach targets specific product categories where reviews are more objective, like Appliances and Tools.
 
-<a href="https://github.com/VeenaBeknal/Predicting-Amazon-Product-Review-Helpfulness"> Amazon Product Review Helpfulness </a>
-##### This repository contains a machine learning project for predicting the helpfulness of Amazon Product Reviews. The dataset used is a subset of the “Amazon Review Data (2018)” published by Ni (2018), UCSD. Focused categories for this project are appliances, automotive, cell phones and accessories, and tools and home improvement. Multiple classification machine learning models such as Logistic regression, Support Vector Machine, and tree-based models such as Random Forest and XGBoost were performed.
+<a href="https://github.com/VeenaBeknal/DiabetesPrediction"> Diabetes Prediction </a>
+##### Repository: Diabetes Prediction
+This project focuses on predicting diabetes in Pima Indian women using a dataset from Kaggle (<a href="https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database"> Pima Indian Data Source </a> ). 
+Pima Indians also referred to as "River People" and are prone to Type-2 Diabetes due to several historical and sociological factors. 
+I explored multiple tree-based models such as Decision Trees, Random Forest, Gradient Boosting, and XGBoost. Additionally, I used SHAP values to enhance model interpretability.
 
 <a href="https://github.com/VeenaBeknal/Solar-Irradiance-to-Sustainably-Power-Streetlights"> Solar Irradiance to Power Streetlights </a>
-##### This repository contains a machine learning project for predicting Solar Irradiance to sustainably power the streetlights. The dataset was extracted National Solar Radiation Database (NSRDB) and solar irradiance data was collected for selected zip codes across San Jose, California. Various regression machine learning models such as Linear Regression, Support Vector Machine Regression, Tree-based regression models such as Random Forest Regression, XGBoost Regression, and Regularization regression such as L1 and L2 were performed.
+##### Repository: Solar Irradiance Prediction
+Solar irradiance is the amount of solar energy reaching Earth's surface and is essential for harnessing solar energy for electricity generation.
+I developed predictive models to forecast solar irradiance using environmental factors. 
+The datasets were extracted from National Solar Radiation Database (NSRDB) FTP servers and Solar Irradiance data was collected for select zip codes across San Jose, California for 2018-2022. 
+The project focuses on creating sustainable energy solutions for powering streetlights by predicting solar energy based on historical weather data from NSRDB (<a href="https://nsrdb.nrel.gov/data-viewer"> Solar Irradiance Data Source </a> ). 
+Several regression techniques, including Linear Regression, Support Vector Regression, XGBoost and L1/L2 regression were applied. 
+The predicted irradiance values were then converted to electricity using a widely accepted formula/logic - this novel approach can be used to help drive sustainability goals (something I'm passionate about! ⚡)
 
 <h3 align = "center">  Unsupervised Machine Learning Projects </h3> 
 
-<a href="https://github.com/VeenaBeknal/USClimatologicalDataAnalysis"> US Climatological Data Analysis </a>
-##### This repository contains a machine learning project for predicting weather patterns, studying climate change, and understanding local weather conditions. The dataset was extracted from the FTP server of NOAA (National Oceanic and Atmospheric Administration). Data for California weather stations was collected. There are three main use cases for this project: use case 1: Difference between temperature over the years. Use case 2: Distribution of temperature and Use case 3: Extreme weather data clustering for California stations. For use case 3 unsupervised machine learning such as K-means was performed. Google Cloud was used to deploy the solution on the cloud.
-
 <a href="https://github.com/VeenaBeknal/Social-Media-Listening-for-Reddit-Posts-and-Comments"> Social Media Listening App for Reddit Data </a>
-##### This repository contains a machine learning project built on historical Reddit data using topic modeling. The data source considered for this project was the r/technology subreddit’s historical dataset which is updated on a weekly level and is available on Kaggle. PySpark is used for data cleansing, transformation, and aggregation of Reddit data, which typically involves a high volume of posts and comments daily. A Streamlit social media listening app for historical data was built that can help in tracking and analyzing multiple metrics and trends as part of social media listening. Unsupervised machine learning model Latent Dirichlet Allocation (LDA) was used for topic modeling.
+#####  Repository: Reddit Topic Modeling
+I built a social media listening app using historical Reddit data. The app applies Latent Dirichlet Allocation (LDA) for topic modeling, utilizing PySpark for data processing. 
+The data source considered for this project was the r/technology subreddit’s historical dataset which is updated on a weekly level and is available on Kaggle <a href="https://www.kaggle.com/datasets/curiel/rtechnology-posts-and-comments/data"> Reddit Data Source </a>. The app is deployed using Streamlit (check it out here <a href="https://reddit-historical-listening.streamlit.app/"> Social Media Listening App </a> !) and analyzes trends within the r/technology subreddit.
+
+<a href="https://github.com/VeenaBeknal/USClimatologicalDataAnalysis"> US Climatological Data Analysis </a>
+Repository: US Climatological Data Analysis
+This project investigates weather patterns and climate change in California using unsupervised learning. 
+The dataset was extracted from the FTP server of NOAA (National Oceanic and Atmospheric Administration) <a href="https://www.ncei.noaa.gov/pub/data/ghcn/daily/by_year/"> Climatological Data Source </a>.
+I applied K-means clustering and attempted DBSCAN to and classify weather stations with similar snow and precipitation pattern. Google Cloud Platform (GCP) was used for deploying the solution.
 
 <h3 align = "center">  Database Projects (SQL and NoSQL) </h3> 
 
 <a href="https://github.com/VeenaBeknal/LinkedInJobPostings"> LinkedIn Job Postings </a>
-##### This repository contains projects built on SQL and NoSQL database systems for LinkedIn Job Posting. Analysis of various job postings listed on LinkedIn from the dataset available on Kaggle. After the data was preprocessed and cleaned two different solutions for the database were created one for SQL using MySQL and another for NoSQL using MongoDB. Atlas was used for visualizations of the NoSQL query. 
+##### Repository: LinkedIn Job Postings
+This project involves analyzing job postings on LinkedIn using both SQL (MySQL) and NoSQL (MongoDB). MongoDB Atlas was used for visualizing the NoSQL queries. The dataset is available on Kaggle <a href="https://www.kaggle.com/datasets/arshkon/linkedin-job-postings?select=job_postings.csv"> LinkedIn Job Postings Data Source </a>.
+
+- 📫 Reach me: veenaramesh.beknal@sjsu.edu 
 
 
-<h5> 🙂 🙂 Thank you for visiting my GitHub portfolio! I am excited to share my projects with you. For more detailed information about each project mentioned above, I have included files and descriptions. Explore the project and cheers to never-ending learning in this evolving data era 🙂 🙂
+<h5> 🙂 🙂 Thank you for visiting my GitHub portfolio! Feel free to explore my projects and connect with me. I’m always open to learning and collaborating in this exciting data era! 🙂 🙂
 
 <!--
 **VeenaBeknal/VeenaBeknal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
