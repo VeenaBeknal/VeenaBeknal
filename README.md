@@ -4,8 +4,7 @@
 ### About Me
 
 #### I am an aspiring Data Scientist and Machine Learning Engineer with over 8 years of experience in Software Development and Data Science. Currently, I am pursuing my Master's degree in Data Analytics at San Jose State University, expected to graduate in May 2025.
-#### My passion lies in Machine Learning, Data Science, and Data Engineering. We live in a data-rich world, and I am endlessly curious about navigating it. I thrive on transforming complex multi-modal datasets into actionable insights, optimizing processes, and creating innovative solutions to real-world business problems.
-#### I am a lifelong learner, continuously updating my knowledge to keep pace with the rapidly evolving data science landscape!
+#### My passion lies in Machine Learning, Data Science, and Data Engineering. We live in a data-rich world, and I am endlessly curious about navigating it. I thrive on transforming complex multi-modal datasets into actionable insights, optimizing processes, and creating innovative solutions to real-world business problems. I am a lifelong learner, continuously updating my knowledge to keep pace with the rapidly evolving data science landscape!
 
 #### When I'm not immersed in data, I enjoy:
 🌱 Gardening <br>
