@@ -36,7 +36,6 @@ I continually aim to expand my skill set as I progress in this ever-evolving fie
 
 <h2> Featured Projects </h2>
 
-
 ### Supervised Machine Learning Projects
 
 <a href="https://github.com/VeenaBeknal/Predicting-Amazon-Product-Review-Helpfulness"> Amazon Product Review Helpfulness </a> 
@@ -54,11 +53,11 @@ I explored multiple tree-based models such as Decision Trees, Random Forest, Gra
 <a href="https://github.com/VeenaBeknal/Solar-Irradiance-to-Sustainably-Power-Streetlights"> Solar Irradiance to Power Streetlights </a>
 
 Solar irradiance is the amount of solar energy reaching Earth's surface and is essential for harnessing solar energy for electricity generation.
-I developed predictive models to forecast solar irradiance using environmental factors. 
+I developed predictive models to forecast solar irradiance using environmental factors. Here's a cool little <a href="https://www.youtube.com/watch?v=IVOnb03VfPs">video</a> we made about our project! 
 The datasets were extracted from National Solar Radiation Database (NSRDB) FTP servers and Solar Irradiance data was collected for select zip codes across San Jose, California for 2018-2022. 
 The project focuses on creating sustainable energy solutions for powering streetlights by predicting solar energy based on historical weather data from NSRDB (<a href="https://nsrdb.nrel.gov/data-viewer">link</a>). 
 Several regression techniques, including Linear Regression, Support Vector Regression, XGBoost and L1/L2 regression were applied. 
-The predicted irradiance values were then converted to electricity using a widely accepted formula/logic - this novel approach can be used to help drive sustainability goals (something I'm passionate about!) ⚡
+The predicted irradiance values were then converted to electricity ⚡ using a widely accepted formula/logic - this novel approach can be used to help drive sustainability goals (something I'm passionate about!). 
 
 ### Unsupervised Machine Learning Projects
 
@@ -79,7 +78,7 @@ I applied K-means clustering and attempted DBSCAN to and classify weather statio
 
 This project involves analyzing job postings on LinkedIn using both SQL (MySQL) and NoSQL (MongoDB). MongoDB Atlas was used for visualizing the NoSQL queries. The dataset is available on Kaggle (<a href="https://www.kaggle.com/datasets/arshkon/linkedin-job-postings?select=job_postings.csv">link</a>).
 
-- 📫 Reach me: veenaramesh.beknal@sjsu.edu 
+📫 Reach me: veenaramesh.beknal@sjsu.edu 
 
 
 <h5> 🙂 🙂 Thank you for visiting my GitHub portfolio! Feel free to explore my projects and connect with me. I’m always open to learning and collaborating in this exciting data era! 🙂 🙂
