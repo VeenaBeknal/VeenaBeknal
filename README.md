@@ -3,7 +3,7 @@
 
 ### About Me
 
-#### I am an aspiring Data Scientist and Machine Learning Engineer with over 8 years of experience in Software Development and Data Science. Currently, I am pursuing my Master's degree in Data Analytics at San Jose State University, expected to graduate in May 2025.
+#### I am an aspiring Data Scientist and Machine Learning Engineer with over 8 years of experience in Software Development and Data Science. Currently, I am pursuing my Master's degree in Applied Data Science at San Jose State University, expected to graduate in May 2025.
 #### My passion lies in Machine Learning, Data Science, and Data Engineering. We live in a data-rich world, and I am endlessly curious about navigating it. I thrive on transforming complex multi-modal datasets into actionable insights, optimizing processes, and creating innovative solutions to real-world business problems. I am a lifelong learner, continuously updating my knowledge to keep pace with the rapidly evolving data science landscape!
 
 #### When I'm not immersed in data, I enjoy:
@@ -59,6 +59,10 @@ The project focuses on creating sustainable energy solutions for powering street
 Several regression techniques, including Linear Regression, Support Vector Regression, XGBoost and L1/L2 regression were applied. 
 The predicted irradiance values were then converted to electricity ⚡ using a widely accepted formula/logic - this novel approach can be used to help drive sustainability goals (something I'm passionate about!). 
 
+<a href="https://github.com/VeenaBeknal/Youth-at-Risk-Predicting-Suicidal-Behavior-in-Teens"> Predicting Suicidal Behavior in Teens </a>
+
+Rising Suicidality thoughts among the teens is a major problem and suicide is the second leading cause of death for individuals aged 10–24,they increased by 52.2% from 2000–2021. The dataset was extracted from  Youth Risk Behavior Surveillance System (YRBSS) (<a href="https://www.cdc.gov/yrbs/data/index.html">link</a>) for the year 2021. This project explores the data mining and machine learning techniques to discover hidden patterns. Classification machine learning algorithms like Logistic Regression, Random Forest, Naïve Bayes and XG Boost were applied. Creation of "Risk score", does excellent job at quantifying an individual's suicide risk.
+
 ### Unsupervised Machine Learning Projects
 
 <a href="https://github.com/VeenaBeknal/Social-Media-Listening-for-Reddit-Posts-and-Comments"> Social Media Listening App for Reddit Data </a>
@@ -78,6 +82,15 @@ I applied K-means clustering and attempted DBSCAN to and classify weather statio
 
 This project involves analyzing job postings on LinkedIn using both SQL (MySQL) and NoSQL (MongoDB). MongoDB Atlas was used for visualizing the NoSQL queries. The dataset is available on Kaggle (<a href="https://www.kaggle.com/datasets/arshkon/linkedin-job-postings?select=job_postings.csv">link</a>).
 
+### Certified
+
+- Completed "Introduction to Power BI" by Datacamp
+
+### Recent Activities
+
+Working on Deep learning and Generative AI projects
+
+### About Me
 <h4> 🙂 🙂 Thank you for visiting my GitHub portfolio! Feel free to explore my projects and connect with me. I’m always open to learning and collaborating in this exciting data era! 🙂 🙂 </h4>
 
 📫 Reach me: veenaramesh.beknal@sjsu.edu 
