@@ -20,7 +20,7 @@ Machine Learning (Supervised & Unsupervised),
 Statistics & Probability,
 SQL & NoSQL Databases,
 Natural Language Processing (NLP),
-Data Visualization & Analysis
+Data Visualization & Analysis, Deep Learning (CNN, RNN, LSTM, Transfomers, BERT, etc.), RAG, Large language Models(Claudi Haiku, Mistral, etc.)
 
 #### I am proficient in tools and technologies such as:
 
