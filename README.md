@@ -76,6 +76,12 @@ This project investigates weather patterns and climate change in California usin
 The dataset was extracted from the FTP server of National Oceanic and Atmospheric Administration (NOAA) (<a href="https://www.ncei.noaa.gov/pub/data/ghcn/daily/by_year/">link</a>).
 I applied K-means clustering and attempted DBSCAN to and classify weather stations with similar snow and precipitation pattern. Google Cloud Platform (GCP) was used for deploying the solution.
 
+### Deep Learning Projects
+
+<a href="https://github.com/VeenaBeknal/Pneumonia-Classification-using-Chest-X-Ray-images"> Pneumonia Classification using X-Ray images </a>
+
+Pneumonia which is a type of lung infection causing inflamed air sacs filled with fluid or pus. Pneumonia caused over 15% of global deaths among children under 5 in 2015, totaling 920,000 deaths. Bacteria, viruses or fungi can multiply in the lungs, causing inflammation and reducing oxygen flow to the blood. This projects tries to solve the problem by classifying pediatric chest X-rays as "Pneumonia" or "Normal" using a deep learning model while leveraging explainable AI such as SHAP and LIME to identify contributing factors to the classifications. Explainable tries to identify which parts in the X-ray which leads the models to classifiying the X-rays "Pneumonia" or "Normal" this is one of the hotest research topic as deep learning models are black box models.
+
 ### Database Projects (SQL and NoSQL)
 
 <a href="https://github.com/VeenaBeknal/LinkedInJobPostings"> LinkedIn Job Postings </a>
