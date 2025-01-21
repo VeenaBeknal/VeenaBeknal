@@ -76,6 +76,7 @@ When I'm not immersed in data, I enjoy:
 ---
 
 ## Certified
+- Certified SAFe® 4 Practitioner issued by Scaled Agile Inc
 - Completed **"Introduction to Power BI"** by Datacamp
 
 ---
