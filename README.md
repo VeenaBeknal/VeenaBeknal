@@ -81,6 +81,20 @@ When I'm not immersed in data, I enjoy:
 
 ---
 
+## Achievements
+### Recognition:
+- 2022: Certificate of Recognition for Quick Deliverables of ‘Communication Channel Setup’
+- 2021: Certificate of Recognition for being an SME (Subject Matter Expert) for project deliverables
+- 2019: ‘Mphasis Monthly Summit Award’ for delivering critical code during the peak festive season of shipping (Dec)
+- 2017: ‘Mphasis Monthly Summit Award’ for Blogs on artificial intelligence
+
+---
+
+### Hackathons:
+- 2018: Designed a chatbot using Dialog Flow, automating service guides for advanced search, leading to a 20% increase in automated interactions
+
+---
+
 ## Recent Activities
 - Working on **Deep Learning** and **Generative AI** projects
 
