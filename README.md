@@ -1,10 +1,22 @@
-<h1 align="center">👋 Hey there, I am Veena Ramesh Beknal! 👋</h1>
+<h1 align="center">👋 Hello! I'm Veena Ramesh Beknal! 👋</h1>
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/veena-beknal)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VeenaBeknal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veenabeknal@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@veenabeknal)
+
+</div>
 
 ## About Me
 
-Experienced Machine Learning Engineer with a dual foundation in enterprise software development (8 years) and advanced data science expertise gained through an MS in Data Analytics from the Department of Applied Data Science at San Jose State University in May 2025. Gained hands-on experience as a **Machine Learning Intern at Perforated AI** where I contributed to developing solutions and advancing my expertise, with a specialization in Deep Learning and Reinforcement Learning.
+**Data Scientist & ML Engineer** with a dual foundation in enterprise software development (8 years) and advanced data science expertise gained through an MS in Data Analytics from the Department of Applied Data Science at San Jose State University in May 2025. 
+My recent experience as a **Machine Learning Intern at Perforated AI** was an exciting opportunity to develop cutting-edge solutions focused on Deep Learning and Reinforcement Learning.
 
-My passion lies in **Machine Learning**, **Data Science**, and **Data Engineering**. We live in a data-rich world, and I am endlessly curious about navigating it. Detail-oriented and driven by a growth and problem-solving mindset, I thrive on transforming complex multi-modal datasets into actionable insights, optimizing processes, and creating innovative solutions to real-world business problems. I am a lifelong learner, continuously updating my knowledge to keep pace with the rapidly evolving data science landscape!
+My passion lies in **Machine Learning**, **Data Science**, and **Data Engineering**. We live in a data-rich world, and I am endlessly curious about navigating it. 
+I'm detail-oriented and driven by a growth and problem-solving mindset, I thrive on transforming complex multi-modal datasets into actionable insights, optimizing processes, and creating innovative solutions to real-world business problems. 
+I am a lifelong learner, continuously updating my knowledge to keep pace with the rapidly evolving data science landscape!
 
 When I'm not immersed in data, I enjoy:
 - 🌱 Gardening  
@@ -14,32 +26,66 @@ When I'm not immersed in data, I enjoy:
 
 ---
 
-## :wrench: :carpentry_saw: My Skills
+## 💼 Professional Highlights
 
-### Expertise
-- Supervised Machine Learning (Linear Regression, Logistic Regression, L1 & L2 Regression, Lasso Regression, SVM, Decision Trees, Random Forest, XGBoost) 
-- Unsupervised Machine Learning (K-means, PCA, LDA, DBSCAN)
-- Statistics & Probability
-- SQL & NoSQL Databases 
-- Natural Language Processing (NLP)
-- Data Visualization & Analysis
-- Deep Learning (CNN, RNN, LSTM, Transformers, GAN, BERT, etc.)
-- Retrieval-Augmented Generation (RAG)
-- Large Language Models (Claude Haiku, Claude Sonnet, LLaMa, Gemma, DeepSeek, Mistral, etc.)
+### 🏢 **Internship**
+**Machine Learning Intern @ Perforated AI** *(Jan 2025 - May 2025)*
+- Implemented proprietary **Dendrites and Perforated Backpropagation™** across 5 deep learning use cases
+- Achieved **10% performance improvement** in model accuracy using PyTorch
+- Developed comprehensive benchmarking frameworks for novel AI validation
 
-### Tools & Technologies
-- **Programming Languages**: Python (Pandas, Scikit-learn, TensorFlow)
-- **Databases**: SQL( Oracle, PostgreSQL, Redshift, MySQL,  BigQuery ) & MongoDB
-- **Big Data Tools**: PySpark
-- **BI Data**: Tableau, Power BI, Looker, MongoDB Atlas
-- **Cloud Platforms**: Google Cloud (Cloud Storage, BigQuery, Looker), AWS (IAM, S3, Redshift, DynamoDB, CloudWatch)
-- **Others**: Anaconda, Apache Airflow, Streamlit, Jenkins, Snowflake
+### 🌍 **Previous Experience**
+**Senior Software Engineer @ Mphasis (FedEx)** *(8+ years)*
+- Architected real-time data pipelines processing **2M+ daily records** across 15 EU countries
+- Reduced customs clearance time by **35%** through optimized data processing
+- Saved **€12k annually** through automated quality monitoring systems
 
 ---
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black) [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)	
+
+## 🛠️ Technical Arsenal
+
+### **Core Expertise**
+```python
+machine_learning = {
+    "supervised": ["XGBoost", "Random Forest", "SVM", "Regression Models"],
+    "unsupervised": ["K-means", "DBSCAN", "PCA", "LDA"],
+    "deep_learning": ["CNN", "RNN", "LSTM", "Transformers", "GAN"],
+    "nlp": ["BERT", "LLMs", "RAG", "Topic Modeling"]
+}
+```
+
+### **Technology Stack**
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+</div>
+
+### **Specializations**
+- **🤖 AI/ML**: Large Language Models (Claude, Gemma, OpenAI), RAG Systems, Fine-tuning (LoRA, QLoRA)
+- **☁️ Cloud**: AWS (S3, Lambda, Redshift, DynamoDB), GCP (BigQuery, Looker), Snowflake
+- **📊 Analytics**: Advanced SQL, Statistical Analysis, Data Visualization, A/B Testing
+- **🔧 Engineering**: ETL/ELT Pipelines, Apache Airflow, Docker, CI/CD, Real-time Processing
+
 ---
 
 ## Featured Projects
+
+### 🧠 **LLM-powered Knowledge Transfer System**
+[![GitHub](https://img.shields.io/badge/View%20Code-GitHub-black?style=flat-square&logo=github)](https://github.com/VeenaBeknal/Simulation-of-Domain-Expert-using-LLM)
+
+Production-ready system leveraging multiple LLMs for automated knowledge extraction
+- **Tech Stack**: Claude, Gemma, LangChain, FAISS, AWS (S3, DynamoDB, Bedrock)
+- **Innovation**: RAG pipeline with HuggingFace embeddings for 50+ technical documents
+- **Impact**: Automated knowledge transfer reducing manual documentation review time
 
 ### Supervised Machine Learning Projects
 
